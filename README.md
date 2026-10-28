@@ -1,4 +1,4 @@
-# Dumansy 🚭 - Daily Nicotine & Cigarette Tracking Mobile App
+# Quitly 🚭 - Daily Nicotine & Cigarette Tracking Mobile App
 
 Sağlıklı ve dumansız yaşamayı teşvik eden, günlük nikotin ve sigara takip uygulaması.
 A mobile application encouraging a healthy, smoke-free lifestyle by tracking daily nicotine and cigarette usage.
@@ -8,10 +8,10 @@ A mobile application encouraging a healthy, smoke-free lifestyle by tracking dai
 ## 📌 Proje Hakkında / About the Project
 
 ### TR
-Dumansy, sigarayı bırakma veya günlük kullanım miktarını azaltma sürecinde kullanıcılara rehberlik eden bir mobil takip uygulamasıdır. Klasik sayaç uygulamalarından farklı olarak; kişiselleştirilmiş içme eğilimi analizleri, sosyopsikolojik bulgu takibi, seri (streak) sistemi ve arkadaş etkileşimleri ile motivasyonu yüksek tutmayı amaçlar.
+Quitly, sigarayı bırakma veya günlük kullanım miktarını azaltma sürecinde kullanıcılara rehberlik eden bir mobil takip uygulamasıdır. Klasik sayaç uygulamalarından farklı olarak; kişiselleştirilmiş içme eğilimi analizleri, sosyopsikolojik bulgu takibi, seri (streak) sistemi ve arkadaş etkileşimleri ile motivasyonu yüksek tutmayı amaçlar.
 
 ### EN
-Dumansy is a mobile tracking app designed to support users through their quit journey or reduction of daily nicotine intake. Moving beyond generic quit-counters, it builds long-term motivation using personalized trigger analyses, sociopsychological tracking, streak mechanics, and social accountability features.
+Quitly is a mobile tracking app designed to support users through their quit journey or reduction of daily nicotine intake. Moving beyond generic quit-counters, it builds long-term motivation using personalized trigger analyses, sociopsychological tracking, streak mechanics, and social accountability features.
 
 ---
 
@@ -74,20 +74,21 @@ Dumansy is a mobile tracking app designed to support users through their quit jo
 - **Emine Zeynep Bakan** — Frontend (React Native) & API Integration
 - **Ela Naz Keklik** — UI/UX & Graphic Design
 - **Elif Selvi** — Psychopathology & Health Content Specialist
+- **Zeynep Yılmaz** — Brand Managing, Operations Research
 
 ---
 
 ## 📄 Lisans / License
 
-- **TR:** Tüm Hakları Saklıdır. Bu kod deposu yalnızca inceleme ve değerlendirme amacıyla kamuya açıktır. Hak sahiplerinin (Dumansy Ekibi) yazılı izni olmaksızın kodların tamamının veya bir kısmının kopyalanması, değiştirilmesi, dağıtılması veya ticari/bireysel projelerde kullanılması kesinlikle yasaktır.
-- **EN:** All Rights Reserved. This repository is made publicly available strictly for inspection and evaluation purposes. No part of this codebase may be copied, modified, redistributed, or used for commercial or non-commercial purposes without explicit written permission from the copyright holders (Dumansy Team).
+- **TR:** Tüm Hakları Saklıdır. Bu kod deposu yalnızca inceleme ve değerlendirme amacıyla kamuya açıktır. Hak sahiplerinin (Quitly Ekibi, KOMOREBI SYSTEMS) yazılı izni olmaksızın kodların tamamının veya bir kısmının kopyalanması, değiştirilmesi, dağıtılması veya ticari/bireysel projelerde kullanılması kesinlikle yasaktır.
+- **EN:** All Rights Reserved. This repository is made publicly available strictly for inspection and evaluation purposes. No part of this codebase may be copied, modified, redistributed, or used for commercial or non-commercial purposes without explicit written permission from the copyright holders (Quitly Team, KOMOREBI SYSTEMS).
 
 
 ---
 
 ## ⚠️ YASAL UYARI / DISCLAIMER
 
-- **TR:** Dumansy içerisinde yer alan sağlık ve hastalık riski bilgileri genel bilgilendirme amaçlıdır. Tıbbi teşhis veya tedavi tavsiyesi niteliği taşımaz.
-- **EN:** Health and risk indicators provided in Dumansy are for informational purposes only and do not constitute professional medical advice, diagnosis, or treatment.
+- **TR:** Quitly içerisinde yer alan sağlık ve hastalık riski bilgileri genel bilgilendirme amaçlıdır. Tıbbi teşhis veya tedavi tavsiyesi niteliği taşımaz.
+- **EN:** Health and risk indicators provided in Quitly are for informational purposes only and do not constitute professional medical advice, diagnosis, or treatment.
 
 ---
